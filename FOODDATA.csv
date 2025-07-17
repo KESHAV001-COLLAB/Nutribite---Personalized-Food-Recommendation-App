@@ -1,0 +1,139 @@
+serial no.,Food Name,Restaurant,Address,Calories,Cost,Not For people having:,Calories_scaled,Cost_scaled
+1,Butter Chicken,Moti Mahal Delux,"Daryaganj, Old Delhi",420,339,"Lactose Intolerance, Dairy Allergies, High Cholesterol",0.476331164,2.676634952
+2,Butter Chicken,Havemore,Pandara Road Market,408,329,"Lactose Intolerance, Dairy Allergies, High Cholesterol",0.416828507,2.531149189
+3,Butter Chicken,Gulati Restaurant,Pandara Road Market,432,350,"Lactose Intolerance, Dairy Allergies, High Cholesterol",0.535833821,2.836669292
+4,Chole Bhature,Sita Ram Diwan Chand,Paharganj,445,100,"Gluten Intolerance, Celiac Disease",0.600295032,-0.800474794
+5,Chole Bhature,Chache Di Hatti,Kamla Nagar,416,120,"Gluten Intolerance, Celiac Disease",0.456496945,-0.509503267
+6,Chole Bhature,Baba Nagpal Corner,Lajpat Nagar,430,110,"Gluten Intolerance, Celiac Disease",0.525916711,-0.654989031
+7,Paranthas,Pt. Gaya Prasad Shiv Charan,"Paranthe Wali Gali, Chandni Chowk",250,50,"Diabetes, Maintaining Weight",-0.366623141,-1.527903612
+8,Paranthas,Moolchand Parathe Wala,Lajpat Nagar,277,60,"Diabetes, Maintaining Weight",-0.232742163,-1.382417848
+9,Paranthas,Kake Di Hatti,Chandni Chowk,263,55,"Diabetes, Maintaining Weight",-0.302161929,-1.45516073
+10,Biryani,Al Jawahar,"Jama Masjid, Old Delhi",322,270,"Hypertension, High Blood Pressure",-0.0096072,1.672783184
+11,Biryani,Biryani By Kilo,Various locations,334,290,"Hypertension, High Blood Pressure",0.049895457,1.963754711
+12,Biryani,Dum Pukht,"ITC Maurya, Chanakyapuri",318,300,"Hypertension, High Blood Pressure",-0.029441419,2.109240475
+13,Veg kebabs,Karim’s,"Jama Masjid, Old Delhi",302,170,Soy Allergies,-0.108778294,0.21792555
+14,Veg kebabs,Al Kakori,Alaknanda,295,150,Soy Allergies,-0.143488178,-0.073045977
+15,Veg kebabs,Rajinder Da Dhaba,Safdarjung,310,180,Soy Allergies,-0.069109857,0.363411313
+16,Momos,Dolma Aunty Momos,Lajpat Nagar Market,390,80,Gluten Intolerance,0.327574522,-1.091446321
+17,Momos,Hunger Strike,"Amar Colony Market, Lajpat Nagar",372,100,Gluten Intolerance,0.238320537,-0.800474794
+18,Momos,Wow! Momo,Multiple locations,350,60,Gluten Intolerance,0.129232333,-1.382417848
+19,Ceaser salad,Bangla Sweet House,Gole Market,90,200,"Lactose Intolerance, Dairy Allergies",-1.159991898,0.65438284
+20,Ceaser salad,Leafe cafe,Kamla Nagar,110,220,"Lactose Intolerance, Dairy Allergies",-1.060820803,0.945354367
+21,Ceaser salad,The Turkish cafe,Greater Kailash,99,211,"Lactose Intolerance, Dairy Allergies",-1.115364905,0.81441718
+22,Aloo Tikki,Natraj Dahi Bhalle Wala,Chandni Chowk,170,60,Diabetes,-0.763307519,-1.382417848
+23,Aloo Tikki,Bittoo Tikki Wala (BTW),Multiple locations,149,65,Diabetes,-0.867437168,-1.309674966
+24,Aloo Tikki,Vaishnav Chat Bhandar,Kamla Nagar,157,80,Diabetes,-0.827768731,-1.091446321
+25,Dal Makhani,Bukhara,"ITC Maurya, Chanakyapuri",384,200,"Lactose, High Cholesterol, Glutten or Celiac Disease",0.297823194,0.65438284
+26,Dal Makhani,Punjabi By Nature,Multiple locations,361,217,"Lactose, High Cholesterol, Glutten or Celiac Disease",0.183776435,0.901708638
+27,Dal Makhani,Dhaba - Estd 1986 Delhi,Various locations,377,190,"Lactose, High Cholesterol, Glutten or Celiac Disease",0.26311331,0.508897077
+28,Tofu Salad,Daily Sushi,Kamla Nagar,89,339,Soy Allergies,-1.164950452,2.676634952
+29,Tofu Salad,korea house,Kamla Nagar,90,320,Soy Allergies,-1.159991898,2.400212002
+30,Tofu Salad,Tofu house,Kamla Nagar,94,299,Soy Allergies,-1.140157679,2.094691898
+31,Multigrain millets oats,keto cafe,"Jama Masjid, Old Delhi",112,150,Gluten Intolerance,-1.050903694,-0.073045977
+32,Multigrain millets oats,Tofu house,"Jama Masjid, Old Delhi",107,132,Gluten Intolerance,-1.075696467,-0.334920351
+33,Multigrain millets oats,Soul cafe,"ITC Maurya, Chanakyapuri",110,189,Gluten Intolerance,-1.060820803,0.4943485
+34,Kulfi,Roshan Di Kulfi,Karol Bagh,206,39,"Lactose Intolerance, Dairy Allergies",-0.584799549,-1.687937951
+35,Kulfi,Kuremal Mohan Lal Kulfi Wale,Chawri Bazar,188,49,"Lactose Intolerance, Dairy Allergies",-0.674053534,-1.542452188
+36,Kulfi,Giani's Di Hatti,Chandni Chowk,216,50,"Lactose Intolerance, Dairy Allergies",-0.535214001,-1.527903612
+37,Pav Bhaji,New Arjun Bombay Pav Bhaji,Model Town,382,140,"High Cholesterol, Gluten Sensitivity or Celiac Disease",0.287906084,-0.218531741
+38,Pav Bhaji,Sindhi Corner,Ashok Vihar,366,120,"High Cholesterol, Gluten Sensitivity or Celiac Disease",0.208569208,-0.509503267
+39,Pav Bhaji,Kumar Pav Bhaji & Chaat,Rajouri Garden,347,135,"High Cholesterol, Gluten Sensitivity or Celiac Disease",0.114356669,-0.291274622
+40,Rajma Chawal,Raju Chur Chur Naan,Multiple Locations,400,199,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues",0.377160069,0.639834264
+41,Rajma Chawal,Sita Ram Diwan Chand,Paharganj,387,189,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues",0.312698858,0.4943485
+42,Rajma Chawal,Prem Di Hatti,Rajouri Garden,378,200,"Irritable Bowel Syndrome(IBS), Gastrointestinal Issues",0.268071865,0.65438284
+43,Jalebi,Old Famous Jalebi Wala,Chandni Chowk,197,89,Diabetes,-0.629426541,-0.960509134
+44,Jalebi,Bangla Sweet House,Gole Market,176,100,Diabetes,-0.733556191,-0.800474794
+45,Jalebi,Jaleba,Chawri Bazar,184,101,Diabetes,-0.693887753,-0.785926218
+46,Samosa,Gupta Ji Samose Wale,Kamla Nagar,552,39,"Gluten Intolerance, Celiac Disease",1.130860389,-1.687937951
+47,Samosa,Annapurna Sweets,CR Park,516,50,"Gluten Intolerance, Celiac Disease",0.952352418,-1.527903612
+48,Samosa,Chaina Ram Sindhi Confectioners,Chandni Chowk,495,60,"Gluten Intolerance, Celiac Disease",0.848222769,-1.382417848
+49,Dosa,Saravana Bhavan,Connaught Place,147,120,Diabetes,-0.877354278,-0.509503267
+50,Dosa,Naivedyam,Hauz Khas Village,136,156,Diabetes,-0.93189838,0.014245481
+51,Dosa,Sagar Ratna,Multiple Locations,127,134,Diabetes,-0.976525373,-0.305823199
+52,Gajar Ka Halwa,Giani di Hatti,Chandni Chowk,383,80,Diabetes,0.292864639,-1.091446321
+53,Gajar Ka Halwa,Bikanervala,Multiple Locations,362,99,Diabetes,0.188734989,-0.815023371
+54,Gajar Ka Halwa,Haldiram's,Multiple Locations,374,110,Diabetes,0.248237646,-0.654989031
+55,Paneer Tikka,Pandara Road Restaurants,Pandara Road,382,223,"Lactose Intolerance, Dairy Allergies",0.287906084,0.989000096
+56,Paneer Tikka,Rajinder Da Dhaba,Safdarjung,350,230,"Lactose Intolerance, Dairy Allergies",0.129232333,1.090840131
+57,Paneer Tikka,Punjabi By Nature,Multiple Locations,366,199,"Lactose Intolerance, Dairy Allergies",0.208569208,0.639834264
+58,Malai Kofta,Punjabi By Nature,Multiple Locations,456,240,"Lactose Intolerance, Dairy Allergies",0.654839134,1.236325894
+59,Malai Kofta,Kake Di Hatti,Chandni Chowk,429,236,"Lactose Intolerance, Dairy Allergies",0.520958157,1.178131589
+60,Malai Kofta,Saravana Bhavan,Connaught Place,435,220,"Lactose Intolerance, Dairy Allergies",0.550709485,0.945354367
+64,Sprout salad,havemore cafe,Karol Bagh,150,85,"Gastrointestinal Isuues, Allergies,Thyroid",-0.862478614,-1.018703439
+65,Sprout salad,Bitwiser house,Pandara Road,162,99,"Gastrointestinal Isuues, Allergies,Thyroid",-0.802975957,-0.815023371
+66,Sprout salad,Jain cafe,Karol Bagh,145,100,"Gastrointestinal Isuues, Allergies,Thyroid",-0.887271387,-0.800474794
+67,Chicken Tikka,Rajinder Da Dhaba,Safdarjung,666,180,High Cholesterol,1.696135628,0.363411313
+68,Chicken Tikka,Punjabi By Nature,Multiple Locations,696,150,High Cholesterol,1.84489227,-0.073045977
+69,Chicken Tikka,Havemore,Pandara Road Market,701,189,High Cholesterol,1.869685044,0.4943485
+70,Gulab Jamun,Gulati Restaurant,Pandara Road,250,85,Diabetes,-0.366623141,-1.018703439
+71,Gulab Jamun,Bikanervala,Multiple Locations,241,90,Diabetes,-0.411250133,-0.945960558
+72,Gulab Jamun,Haldiram's,Multiple Locations,256,120,Diabetes,-0.336871812,-0.509503267
+73,Lassi,Amritsari Lassi Wala,Chandni Chowk,202,120,"Lactose Intolerance, Dairy Allergies",-0.604633768,-0.509503267
+74,Lassi,Keventers,Multiple Locations,196,99,"Lactose Intolerance, Dairy Allergies",-0.634385096,-0.815023371
+75,Lassi,Bikanervala,Multiple Locations,205,101,"Lactose Intolerance, Dairy Allergies",-0.589758103,-0.785926218
+76,Aloo Paratha,Moolchand Parathe Wala,Lajpat Nagar,406,186,Diabetes,0.406911398,0.450702771
+77,Aloo Paratha,Paranthe Wali Gali,Chandni Chowk,399,160,Diabetes,0.372201515,0.072439786
+78,Aloo Paratha,Giani's Di Hatti,Chandni Chowk,410,156,Diabetes,0.426745617,0.014245481
+79,Blueberry smoothie,montilier,Kamla Nagar,100,156,"Diabetes, Kidney Stones, Maintaining Weight",-1.11040635,0.014245481
+80,Blueberry smoothie,Chai Point,Multiple Locations,96,178,"Diabetes, Kidney Stones, Maintaining Weight",-1.130240569,0.334314161
+81,Blueberry smoothie,Tea Halt,Okhla,102,136,"Diabetes, Kidney Stones, Maintaining Weight",-1.100489241,-0.276726046
+82,Paneer Butter Masala,Punjabi By Nature,Multiple Locations,522,189,"Lactose Intolerance, Dairy Allergies",0.982103747,0.4943485
+83,Paneer Butter Masala,Butter Paneer,Daryaganj,517,188,"Lactose Intolerance, Dairy Allergies",0.957310973,0.479799924
+84,Paneer Butter Masala,Dhaba - Estd 1986 Delhi,Various locations,532,200,"Lactose Intolerance, Dairy Allergies",1.031689294,0.65438284
+85,Ragi oats,Udaipur cafe,"Jama Masjid, Old Delhi",101,132,Gluten Intolerance,-1.105447796,-0.334920351
+86,Ragi oats,ITC Maurya,"Jama Masjid, Old Delhi",123,142,Gluten Intolerance,-0.996359592,-0.189434588
+87,Ragi oats,kilo cafe,Multiple Locations,117,120,Gluten Intolerance,-1.02611092,-0.509503267
+88, Fruit salade,Keventers,Daryaganj,80,120,Diabetes,-1.209577445,-0.509503267
+89, Fruit salade,Udaipur cafe,"Jama Masjid, Old Delhi",78,129,Diabetes,-1.219494554,-0.37856608
+90, Fruit salade,Soul cafe,"Jama Masjid, Old Delhi",87,130,Diabetes,-1.174867562,-0.364017504
+94,Chia seed pudding,1 8 c0mune,"Jama Masjid, Old Delhi",90,85,"Gastrointestinal Isuues, Allergies",-1.159991898,-1.018703439
+95,Chia seed pudding,# cafe,"Jama Masjid, Old Delhi",98,99,"Gastrointestinal Isuues, Allergies",-1.12032346,-0.815023371
+96,Chia seed pudding,kilo cafe,Lajpat Nagar,100,110,"Gastrointestinal Isuues, Allergies",-1.11040635,-0.654989031
+97,Mango Lassi,Amritsari Lassi Wala,Chandni Chowk,212,110,"Lactose Intolerance, Dairy Allergies",-0.55504822,-0.654989031
+98,Mango Lassi,Keventers,Multiple Locations,198,99,"Lactose Intolerance, Dairy Allergies",-0.624467987,-0.815023371
+99,Mango Lassi,Bikanervala,Multiple Locations,201,120,"Lactose Intolerance, Dairy Allergies",-0.609592322,-0.509503267
+100,Palak Paneer,Punjabi By Nature,Multiple Locations,340,165,Kidney Stones,0.079646785,0.145182668
+101,Palak Paneer,Dhaba - Estd 1986 Delhi,Various locations,322,183,Kidney Stones,-0.0096072,0.407057042
+102,Palak Paneer,Saravana Bhavan,Connaught Place,319,170,Kidney Stones,-0.024482864,0.21792555
+103,Baked outmeal,Saravana Bhavan,Multiple Locations,130,165,Gluten Intolerance,-0.961649708,0.145182668
+104,Baked outmeal,Keventers,Chandni Chowk,133,186,Gluten Intolerance,-0.946774044,0.450702771
+105,Baked outmeal,Udaipur cafe,Greater Kailash,140,150,Gluten Intolerance,-0.912064161,-0.073045977
+106,Papdi Chaat,Shree Balaji Chaat Bhandar,Chandni Chowk,329,60,Gluten Intolerance,0.025102683,-1.382417848
+107,Papdi Chaat,Vaishnav Chat Bhandar,Kamla Nagar,322,39,Gluten Intolerance,-0.0096072,-1.687937951
+108,Papdi Chaat,Bittu Tikki Wala,Multiple Locations,312,50,Gluten Intolerance,-0.059192747,-1.527903612
+109,Kachori with Aloo Sabzi,Jung Bahadur Kachori Wala,Chandni Chowk,525,89,Diabetes,0.996979411,-0.960509134
+110,Kachori with Aloo Sabzi,Hanuman Mandir Kachori Wala,Connaught Place,517,100,Diabetes,0.957310973,-0.800474794
+111,Kachori with Aloo Sabzi,Mishra Kachori Wala,Old Delhi,506,110,Diabetes,0.902766871,-0.654989031
+112,Paneer Kulcha,Kake Di Hatti,"Fatehpuri, Chandni Chowk",587,156,"Lactose Intolerance, Dairy Allergies",1.304409804,0.014245481
+113,Paneer Kulcha,Amritsari Lassi Wala,Chandni Chowk,556,179,"Lactose Intolerance, Dairy Allergies",1.150694608,0.348862737
+114,Paneer Kulcha,Paranthe Wali Gali,Chandni Chowk,550,190,"Lactose Intolerance, Dairy Allergies",1.120943279,0.508897077
+115,Paneer Kulcha,Kake Di Hatti,"Fatehpuri, Chandni Chowk",541,210,"Lactose Intolerance, Dairy Allergies",1.076316287,0.799868604
+116,Paneer Kulcha,Amritsari Lassi Wala,Chandni Chowk,537,200,"Lactose Intolerance, Dairy Allergies",1.056482068,0.65438284
+117,Paneer Kulcha,Paranthe Wali Gali,Chandni Chowk,555,220,"Lactose Intolerance, Dairy Allergies",1.145736053,0.945354367
+118,Baked avocado eggs,Gulati Restaurant,Pandara Road,160,130,Egg Allergies,-0.812893066,-0.364017504
+119,Baked avocado eggs,Healthi By Nature,Multiple Locations,157,148,Egg Allergies,-0.827768731,-0.10214313
+120,Baked avocado eggs,Swagath Restaurant & Bar,Defence Colony,167,150,Egg Allergies,-0.778183183,-0.073045977
+121,Shahi Paneer,Pind Balluchi,Multiple Locations,525,220,"Lactose Intolerance, Dairy Allergies",0.996979411,0.945354367
+122,Shahi Paneer,Punjabi By Nature,Multiple Locations,558,230,"Lactose Intolerance, Dairy Allergies",1.160611717,1.090840131
+123,Shahi Paneer,Dhaba - Estd 1986 Delhi,Various Locations,546,245,"Lactose Intolerance, Dairy Allergies",1.10110906,1.309068776
+124,Banana oatmeal,Ketan cafe,Lajpat Nagar,123,184,Gluten Intolerance,-0.996359592,0.421605619
+125,Banana oatmeal,pautli,Chandni Chowk,120,160,Gluten Intolerance,-1.011235256,0.072439786
+126,Banana oatmeal,Oatlim,"Fatehpuri, Chandni Chowk",127,150,Gluten Intolerance,-0.976525373,-0.073045977
+127,Sweet Potato hash,Jain cafe,Greater Kailash,188,130,Diabetes,-0.674053534,-0.364017504
+128,Sweet Potato hash,leo bar,Kamla Nagar,190,148,Diabetes,-0.664136424,-0.10214313
+129,Sweet Potato hash,Omniyer,Chandni Chowk,178,150,Diabetes,-0.723639081,-0.073045977
+130,Rabri Faluda,Giani's Di Hatti,Chandni Chowk,295,120,Diabetes,-0.143488178,-0.509503267
+131,Rabri Faluda,Roshan Di Kulfi,Karol Bagh,289,156,Diabetes,-0.173239506,0.014245481
+132,Rabri Faluda,Baba Kharak Singh Marg,Connaught Place,278,110,Diabetes,-0.227783608,-0.654989031
+133,Veg Hakka Noodles,Chowringhee,Laxmi Nagar,284,140,Gluten Intolerance,-0.19803228,-0.218531741
+134,Veg Hakka Noodles,Berco's,Multiple Locations,290,150,Gluten Intolerance,-0.168280951,-0.073045977
+135,Veg Hakka Noodles,Yo! China,Multiple Locations,288,142,Gluten Intolerance,-0.178198061,-0.189434588
+136,Soya Chaap,Veg Gulati,Pandara Road,651,183,Soy Allergies,1.621757307,0.407057042
+137,Soya Chaap,Sardar Ji Malai Chaap Wale,Subhash Nagar,666,189,Soy Allergies,1.696135628,0.4943485
+138,Soya Chaap,Hunger Strike,Amar Colony,646,200,Soy Allergies,1.596964533,0.65438284
+139,Avocado toast,Pint cafe,Jama Masjid,198,115,Avocado Allergies,-0.624467987,-0.582246149
+140,Avocado toast,Leep cafe & bar,Safdarjung,200,131,Avocado Allergies,-0.614550877,-0.349468928
+141,Avocado toast,Paulti,Pandara Road,189,142,Avocado Allergies,-0.669094979,-0.189434588
+142,Berry smoothie bowl,Pint cafe,"Jama Masjid, Old Delhi",145,187,Diabetes,-0.887271387,0.465251348
+143,Berry smoothie bowl,Irani cafe,"Jama Masjid, Old Delhi",150,190,Diabetes,-0.862478614,0.508897077
+144,Berry smoothie bowl,Jain cafe,New Friends Colony,147,199,Diabetes,-0.877354278,0.639834264
